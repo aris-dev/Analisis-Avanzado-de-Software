@@ -16,6 +16,7 @@
 **Unidad 1**
 
 ⌛️ [C0.1 Integrar equipos de trabajo](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/C0.1_CristhianMorales_DreamTeam.md)
+
 ⌛️ [C0.2 Tipo de sistema de información](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/C0.2_CristhianMorales_DreamTeam.md)
 
 
