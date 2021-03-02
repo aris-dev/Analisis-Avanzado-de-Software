@@ -1,6 +1,4 @@
-# ***Instituto Tecnologico de Tijuana***
-
-## ***Nombre:*** Cristhian Antonio Morales Arismendi
+# ***Instituto Tecnologico de Tijuana*** 
 
 ## ***Correo:*** cristian.morales17@tectijuana.edu.mx
 
