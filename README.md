@@ -17,7 +17,7 @@
 
 ⌛️ [C0.2 Tipo de sistema de información](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/C0.2_CristhianMorales_DreamTeam.md)
 
-⌛️ [C0.3 Diagrama de flujo del proceso](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/C0.3_Diagrama de flujo del proceso_CristhianMorales.md)
+⌛️ [C0.3 Diagrama de flujo del proceso](https://https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/C0.3_Diagrama%20de%20flujo%20del%20proceso_CristhianMorales.md)
 
 
 **Unidad 2**
