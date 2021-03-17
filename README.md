@@ -19,6 +19,8 @@
 
 ⌛️ [C0.3 Diagrama de flujo del proceso](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/C0.3_Diagrama%20de%20flujo%20del%20proceso_CristhianMorales.md)
 
+:boom: [A0.1 Recopilación de datos por medio de la entrevista](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/A0.1_Recopilaci%C3%B3n_de_datos_por_medio_de_la_entrevista_MoralesArismendiCristhian.md)
+
 
 **Unidad 2**
 
