@@ -19,6 +19,8 @@
 
 ⌛️ [C0.3 Diagrama de flujo del proceso](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/C0.3_Diagrama%20de%20flujo%20del%20proceso_CristhianMorales.md)
 
+⌛️ [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/C1.1_Definici%C3%B3n%20de%20Objetivo%20general%20y%20los%20especificos,%20asi%20como%20el%20modelado%20del%20negocio_CristhianMorales.md)
+
 :boom: [A0.1 Recopilación de datos por medio de la entrevista](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/A0.1_Recopilaci%C3%B3n_de_datos_por_medio_de_la_entrevista_MoralesArismendiCristhian.md)
 
 
