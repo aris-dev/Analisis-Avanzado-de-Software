@@ -25,6 +25,7 @@
 
 
 **Unidad 2**
+⌛️ [C1.2 Elaboración del acta constitutiva del proyecto](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/C1.2_Elaboracion%20del%20acta%20constitutiva%20del%20proyecto_CristhianMorales.md)
 
 
 **Unidad 3**
