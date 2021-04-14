@@ -28,6 +28,8 @@
 
 ⌛️ [C1.2 Elaboración del acta constitutiva del proyecto](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/C1.2_Elaboracion%20del%20acta%20constitutiva%20del%20proyecto_CristhianMorales.md)
 
+⌛️ [C1.3 Requisitos del sistema para el caso de estudio](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/C1.3_Requisitos_del_sistema_para_el_caso_de_estudio_CristhianMoralesArismendi.md)
+
 
 **Unidad 3**
 
