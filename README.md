@@ -30,7 +30,7 @@
 
 ⌛️ [C1.3 Requisitos del sistema para el caso de estudio](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/C1.3_Requisitos_del_sistema_para_el_caso_de_estudio_CristhianMoralesArismendi.md)
 
-
+:boom: [A1.0 Consolidacion del acta constitutiva](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/A1.0_Preparation_of_the_constitutive_act_of_the_project_CristhianMorales.md)
 **Unidad 3**
 
 **Unidad 4**
