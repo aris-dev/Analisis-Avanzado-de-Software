@@ -30,9 +30,11 @@
 
 ⌛️ [C1.3 Requisitos del sistema para el caso de estudio](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/C1.3_Requisitos_del_sistema_para_el_caso_de_estudio_CristhianMoralesArismendi.md)
 
-:boom: [A1.0 Consolidacion del acta constitutiva](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/A1.0_Preparation_of_the_constitutive_act_of_the_project_CristhianMorales.md)
-
 ⌛️: [C1.4 Modelado de requisitos a través de diagramas de comportamiento](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/C1.4_UML_Casos_de_uso_secuencia_clases_CristhianMoralesArismendi.md)
+
+⌛️: [C1.5 Modelado de requisitos a través de diagramas estructurados](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/C1.5_UML_Estado_componentes_distribucion_CristhianMoralesArismendi.md)
+
+:boom: [A1.0 Consolidacion del acta constitutiva](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/A1.0_Preparation_of_the_constitutive_act_of_the_project_CristhianMorales.md)
 
 **Unidad 3**
 
