@@ -36,6 +36,8 @@
 
 :boom: [A1.0 Consolidacion del acta constitutiva](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/A1.0_Preparation_of_the_constitutive_act_of_the_project_CristhianMorales.md)
 
+:boom: [A1.1 Modelado de requisitos a través de diagramas UML](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/A1.1_Requirements_modeling_through_UML_diagrams.md)
+
 **Unidad 3**
 
 **Unidad 4**
