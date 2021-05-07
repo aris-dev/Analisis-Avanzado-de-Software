@@ -39,5 +39,7 @@
 :boom: [A1.1 Modelado de requisitos a través de diagramas UML](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/A1.1_Requirements_modeling_through_UML_diagrams.md)
 
 **Unidad 3**
+⌛️ [C2.1 Especificación de Requerimientos Funcionales](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/C2.1_EspecificacionRequerimientos_Funcionales_CristhianAntonioMoralesArismendi.md)
+
 
 **Unidad 4**
