@@ -42,5 +42,6 @@
 
 ⌛️ [C2.1 Especificación de Requerimientos Funcionales](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/C2.1_EspecificacionRequerimientos_Funcionales_CristhianAntonioMoralesArismendi.md)
 
+:boom: [A2.1 Especificación de requisitos y documentación](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/A2.1_Requirements_Specification_and_documentation_MoralesArismendiCristhian.md)
 
 **Unidad 4**
