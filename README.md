@@ -44,4 +44,6 @@
 
 :boom: [A2.1 Especificación de requisitos y documentación](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/A2.1_Requirements_Specification_and_documentation_MoralesArismendiCristhian.md)
 
+:boom: [A2.2 Diseño de la arquitectura 4+1](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/A2.2_Dise%C3%B1o_de_la_arquitectura_4%2B1_MoralesArismendiCristhian.md)
+
 **Unidad 4**
