@@ -46,4 +46,6 @@
 
 :boom: [A2.2 Diseño de la arquitectura 4+1](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/A2.2_Dise%C3%B1o_de_la_arquitectura_4%2B1_MoralesArismendiCristhian.md)
 
+:boom: [A2.3 Patrones de arquitectura de software](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Blog/A2.3_Patrones_de_arquitectura_de_software.md)
+
 **Unidad 4**
