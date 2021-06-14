@@ -51,3 +51,5 @@
 **Unidad 4**
 
 :boom: [A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Documentos/A3.1_Fase_inicio_Scrum_Declaracion_de_vision_del-proyecto_MoralesArismendiCrishian.pdf)
+
+:boom: [A3.2 Fase inicio: Artefactos](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Documentos/A3.2_Fase-Inicial-Artefactos_CristhianMoralesArismendi.pdf)
