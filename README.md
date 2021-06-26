@@ -56,5 +56,5 @@
 
 :boom: [A3.3 Arquitectura de software a traves del Modelo C4](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Documentos/A3.3_Arquitectura-de-software-a-traves-del-Modelo-C4_CristhianMoralesArismendi.pdf)
 
-
+:boom: [A3.4  Fase planificacion y estimacion: Artefactos](https://github.com/aris-dev/Analisis-Avanzado-de-Software/blob/main/Documentos/A3.4-_Fase-planificacion-y-estimacion-Artefactos_CristhianMoralesArismendi.pdf)
 
